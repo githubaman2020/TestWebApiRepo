@@ -1,0 +1,12 @@
+C:\Users\amanp\source\repos\WebApi\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.AssemblyReference.cache
+C:\Users\amanp\source\repos\WebApi\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\amanp\source\repos\WebApi\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+C:\Users\amanp\source\repos\WebApi\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+C:\Users\amanp\source\repos\WebApi\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+C:\Users\amanp\source\repos\WebApi\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\amanp\source\repos\WebApi\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\amanp\source\repos\WebApi\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\amanp\source\repos\WebApi\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\amanp\source\repos\WebApi\EmployeeDataAccess\obj\Debug\Employee.D326A529.Up2Date
+C:\Users\amanp\source\repos\WebApi\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+C:\Users\amanp\source\repos\WebApi\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
